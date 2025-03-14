@@ -4,7 +4,7 @@ Haplotype-phased genomes can occasionally contain switch errors: an artificial s
 
 *switch_error_screen* is a bash script that uses soft-clipping information to flag potential switch errors in phased genomes and pangenomes. It can be applied to .BAM realignments of reads to a phased genome.
 
-## Authors: 
+## Authors 
 Samuel N. Bogan | University of California, Santa Cruz
 
 Owen W. Moosman | University of California, Santa Cruz
